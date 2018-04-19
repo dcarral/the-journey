@@ -1,6 +1,6 @@
 # *“Software on the road: The Journey”*
 
-Hi, I'm the living repository provided as companion material to the talk *“Software on the road: The Journey”*, so far facilitated at:
+Hi, I'm the living repository provided as companion material to the talk *“Software on the road: The Journey”*, so far delivered at:
 
 - *[MiXiT 2018](https://mixitconf.org)* @ Lyon (April 19th, 2018)
 
@@ -22,6 +22,10 @@ Hi, I'm the living repository provided as companion material to the talk *“Sof
 - Dragan Stepanovic, @dragan_stepanovic
 - Carlos Tellechea, arteartesania.com
 - Iñaki Quesada, @piedresybarro
+
+## Featured communities
+
+Coming soon :)
 
 ## Resources
 
