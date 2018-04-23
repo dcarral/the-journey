@@ -20,12 +20,25 @@ Hi, I'm the living repository provided as companion material to the talk *“Sof
 - Sergio Álvarez, @sergioalvz_
 - Adnan Rahic, @adnanrahic
 - Dragan Stepanovic, @dragan_stepanovic
-- Carlos Tellechea, arteartesania.com
+- Carlos Tellechea, http://arteartesania.com
 - Iñaki Quesada, @piedresybarro
+- Alfredo Fernández, @alfredodev
+- Rachel Carmena, @bberrycarmen
 
-## Featured communities
+## Featured events & communities
 
-Coming soon :)
+- SoCraCan 2017
+- Ruby User Group Berlin (RUG::B)
+- SoCraTes Day Berlin 2017
+- Software Crafting Serbia
+- Software Craftsmanship Mallorca
+- AsturiasHacking
+- Global Day of Coderetreat 2017
+- Ruby User Group Hamburg
+- Softwerkskammer Berlin
+- Ruby User Group Madrid
+- Barcelona on Rails
+- Software Crafters Madrid 2018
 
 ## Resources
 
