@@ -2,6 +2,7 @@
 
 Hi, I'm the living repository provided as companion material to the talk *“Software on the road: The Journey”*, so far delivered at:
 
+- *[NewCrafts 2018](https://ncrafts.io/)* @ Paris (May 17th, 2018)
 - *[MiXiT 2018](https://mixitconf.org)* @ Lyon (April 19th, 2018)
 
 ## Featured activities
