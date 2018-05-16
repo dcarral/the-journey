@@ -15,13 +15,13 @@ Hi, I'm the living repository provided as companion material to the talk *“Sof
 - Carlos Blé, @carlosble
 - Corey Haines, @coreyhaines
 - Raimo Radczewski, @rradczewski
-- Martin Klose, @martinklose
 - Alex Bolboaca, @alexboly
 - Sergio Álvarez, @sergioalvz_
 - Adnan Rahic, @adnanrahic
 - Dragan Stepanovic, @dragan_stepanovic
 - Carlos Tellechea, http://arteartesania.com
 - Iñaki Quesada, @piedresybarro
+- Sergio Gil, @porras
 - Alfredo Fernández, @alfredodev
 - Rachel Carmena, @bberrycarmen
 
