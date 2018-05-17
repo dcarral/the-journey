@@ -1,6 +1,7 @@
 # *“Software on the road: The Journey”*
 
 ![Sketchnote @ NewCrafts 2018](img/sketchnote_newcrafts.jpg "Sketchnote @ NewCrafts 2018")
+(Thank you very much to @infosaurus, who created this sketchnote live @ NewCrafts 2018)
 
 Hi, I'm the living repository provided as companion material to the talk *“Software on the road: The Journey”*, so far delivered at:
 
