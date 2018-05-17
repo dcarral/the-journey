@@ -16,11 +16,10 @@ Hi, I'm the living repository provided as companion material to the talk *“Sof
 - Carlos Blé, @carlosble
 - Corey Haines, @coreyhaines
 - Raimo Radczewski, @rradczewski
-- Alex Bolboaca, @alexboly
-- Sergio Álvarez, @sergioalvz_
 - Adnan Rahic, @adnanrahic
 - Dragan Stepanovic, @dragan_stepanovic
 - Carlos Tellechea, http://arteartesania.com
+- Sergio Álvarez, @sergioalvz_
 - Iñaki Quesada, @piedresybarro
 - Sergio Gil, @porras
 - Alfredo Fernández, @alfredodev
@@ -54,3 +53,6 @@ Hi, I'm the living repository provided as companion material to the talk *“Sof
 
 * [Pair programming tour](https://vimeo.com/channels/pairprogrammingtour), by Corey Haines.
 * [“Women in tech“ session @ #madswcraft18](https://github.com/dcarral/WomenInTech)
+* [Wikitravel - The Free Travel Guide](https://wikitravel.org)
+* [Hitchwiki: the Hitchhiker's guide](http://hitchwiki.org/en/Main_Page)
+* [Couchsurfing: Meet and Stay with Locals All Over the World](https://couchsurfing.com)
