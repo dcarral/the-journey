@@ -34,7 +34,7 @@ Hi, I'm the living repository provided as companion material to the talk *“Sof
 - Ruby User Group Berlin (RUG::B)
 - SoCraTes Day Berlin 2017
 - Software Crafting Serbia
-- Software Craftsmanship Mallorca
+- Mallorca Software Crafters
 - AsturiasHacking
 - Global Day of Coderetreat 2017
 - Ruby User Group Hamburg
